@@ -3,15 +3,13 @@
 
 int main()
 {
- int n;
- printf("enter the value of n");
- scanf("%d",&n);
+ int n=6;
  if(n%2==0)
  {
- printf("n is even");
+ ("n is even");
  }
  else
-    printf("n is odd");
+    ("n is odd");
 
  return 0;
 }
