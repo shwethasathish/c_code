@@ -6,10 +6,10 @@ int main()
  int n=6;
  if(n%2==0)
  {
- ("n is even");
+ printf("n is even");
  }
  else
-    ("n is odd");
+   printf ("n is odd");
 
  return 0;
 }
